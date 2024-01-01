@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IHope94
+- 👋 Hi, I’m @iHope94
 - 👀 I’m interested in Data Analysis 
 
 
